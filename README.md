@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning project that predicts the price of a laptop based on its specifications — built from raw, messy real-world data all the way to a deployed, interactive web app.
 
-🔗 **Live App:** [Laptop Price Predictor on Streamlit](#) <!-- replace with your live streamlit link -->
+🔗 **Live App:** (https://laptoppricepredictor-ml.streamlit.app/)
 📂 **Repository:** [github.com/divay0407/Laptop_Price_Predictor](https://github.com/divay0407/Laptop_Price_Predictor)
 
 ---
